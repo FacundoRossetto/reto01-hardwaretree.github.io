@@ -75,5 +75,7 @@ footer{
 }
 
 hr{
-    background: black;
+    height: 1px;
+    background-color: black;
+    border: none;
 }
